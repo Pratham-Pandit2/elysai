@@ -65,3 +65,5 @@ Now deploy the main application to Vercel.
 
 *   **Database**: Ensure your database is accessible from the internet (not just localhost). If you are using a local Postgres, you must migrate to a cloud provider like **Supabase** or **Neon**.
 *   **Bridge Connection**: If the AI doesn't respond, check the Retell Dashboard logs to see if it's failing to connect to your Bridge URL.
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
